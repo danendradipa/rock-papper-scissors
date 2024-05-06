@@ -2,4 +2,4 @@
 
  Danendra Dipa Dananjaya
  
- Submussion Machine learning pemula dicoding
+ Submission Machine learning pemula dicoding
