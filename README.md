@@ -1,4 +1,4 @@
-# Rock Paper Scissors Classification
+# Rock Paper Scissors Classification ✊🖐️✌️
 
 This project focuses on classifying hand gestures into rock, paper, or scissors using a neural network built with TensorFlow. The goal is to develop a program that can accurately recognize these hand shapes.
 
